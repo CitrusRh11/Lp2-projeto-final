@@ -1,0 +1,19 @@
+# Compilados
+bin/
+out/
+*.class
+
+# Eclipse
+.settings/
+.project
+.classpath
+.metadata/
+
+# IntelliJ / VS Code
+.idea/
+*.iml
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
