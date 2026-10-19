@@ -70,10 +70,10 @@ public class Menu {
 
     public void carrinho() {
         System.out.println("Escolha uma opcao");
-        System.out.println("1 ~> Colocar item no carrino");
+        System.out.println("1 ~> Colocar item no carrinho");
         System.out.println("2 ~> Remover do carrinho");
         System.out.println("3 ~> Itens do carrinho");
-        System.out.println("5 ~> Voltar");
+        System.out.println("4 ~> Voltar");
     }
 
 }
